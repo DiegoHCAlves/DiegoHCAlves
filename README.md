@@ -12,8 +12,8 @@ Olá, sou Diego Alves
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/java-plain.svg](https://icons8.com.br/icon/lTKW3iI3wIT0/logo-java-coffee-cup)">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/java-plain.svg](https://icons8.com.br/icon/lTKW3iI3wIT0/logo-java-coffee-cup)">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
