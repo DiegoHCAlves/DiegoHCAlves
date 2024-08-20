@@ -8,9 +8,11 @@
 # Diego Alves | Estudante de Analise e Desenvolvimento de Sistemas
 
 <div align="center">
-    <img alt="Java" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img alt="HTML5" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS3" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Java"       height="100"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img alt="HTML5"      height="100"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS3"       height="100"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="JavaScript" height="100"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 </div>
 
 Olá, sou Diego Alves
