@@ -18,7 +18,7 @@ Olá, sou Diego Alves
 - 🔭 Hoje Trabalho com Back-End
 - 🌱 Java Web com tecnologia legada
 - ☕ Pergunte-me sobre Java ...
-- 📫 Contacte-me no email: diegohalve.dev@gmail.com
+- 📫 Contacte-me no email: diegohalves.dev@gmail.com
 
 **Meus Objetivos**
 
